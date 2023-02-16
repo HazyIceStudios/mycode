@@ -27,7 +27,4 @@ def upload_file():
         
 if __name__ == "__main__":
    app.run(host="0.0.0.0", port=2224)
-<<<<<<< HEAD
 
-=======
->>>>>>> cfc3ffa83f2d0068f0d3a5ed914917a69a6bc9de
