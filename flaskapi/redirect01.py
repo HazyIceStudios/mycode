@@ -42,9 +42,5 @@ def success():
     return "logged in successfully"
 
 if __name__ == "__main__":
-<<<<<<< HEAD
    app.run(host="0.0.0.0", port=2224)
 
-=======
-   app.run(host="0.0.0.0", port=2224)
->>>>>>> cfc3ffa83f2d0068f0d3a5ed914917a69a6bc9de
