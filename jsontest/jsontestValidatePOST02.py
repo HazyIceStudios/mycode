@@ -30,7 +30,7 @@ def main():
 
     ## PART C
     ## read a list of hosts out of a flat file
-    with open("/home/student/mycode/jsontest/myservers.txt") as myfile:
+    with open("C:/_development/mycode/jsontest/myservers.txt") as myfile:
         mysvrs = myfile.readlines()
 
     ## PART D
