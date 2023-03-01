@@ -10,7 +10,7 @@ NASAAPI = "https://api.nasa.gov/planetary/apod?"
 
 def main():
     ## Define credentials
-    with open("/home/student/nasa.creds") as mycreds:
+    with open("c:/_development/mycode/nasa/nasa.creds") as mycreds:
         nasacreds = mycreds.read()
 
     ## remove any extra lines from cred file
